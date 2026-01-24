@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "",
+    "restype": "watchface",
+    "name": "玉兰黄鹂",
+    "description": "来自于非闇的工笔画《玉兰黄鹂》",
+    "preview": [
+      "media/awa.png",
+      "media/preview.png"
+    ],
+    "icon": "media/eee1619613af0486bb670877b8e3b27e - 副本(2).png",
+    "cover": "media/awa.png",
+    "author": [
+      {
+        "name": "Eric齐齐",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://www.bandbbs.cn/members/130916/",
+      "icon": ""
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/yulanhuangli(1).bin"
+    }
+  },
+  "ext": {}
+}
